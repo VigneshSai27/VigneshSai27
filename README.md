@@ -12,6 +12,10 @@ I'm a Bangalore-based **Software Engineer** specializing in building scalable an
 - **Databases:** MySQL, PostgreSQL  
 - **Dev Tools:** IntelliJ, Eclipse, Visual Studio Code, Git, Jenkins, Docker, Azure DevOps  
 
+👨‍💻 **Coding Profiles**  
+- [LeetCode](https://leetcode.com/VigneshSai/)  
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/kamarthivignesh000/)  
+
 
 📫 **Let's Connect**  
 - [LinkedIn](https://www.linkedin.com/in/vignesh-sai/)
